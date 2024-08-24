@@ -37,7 +37,7 @@
     "react-native": "*"
   },
   "dependencies": {
-    "qs": "^6.10.3"
+    "qs": "^6.13.0"
   },
   "jest": {
     "projects": [

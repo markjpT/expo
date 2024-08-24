@@ -52,7 +52,7 @@
     "@types/uuid": "^3.4.7",
     "expo-module-scripts": "^3.0.0",
     "memfs": "^3.2.0",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^3.2.10"
   },
   "peerDependencies": {
     "expo": "*"
