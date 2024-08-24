@@ -39,10 +39,10 @@
     "expo-linking": "~6.1.0",
     "expo-web-browser": "~12.6.0",
     "invariant": "^2.2.4",
-    "qs": "^6.11.0"
+    "qs": "^6.13.0"
   },
   "devDependencies": {
-    "@types/qs": "^6.9.7",
+    "@types/qs": "^6.9.15",
     "expo-module-scripts": "^3.0.0"
   },
   "jest": {
